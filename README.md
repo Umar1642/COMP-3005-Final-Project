@@ -1,7 +1,7 @@
 COMP3005 Final Project
-Adnan Kazi | Member 1 Student ID
-Umar Marikar | Member 2 Student ID
-Ahmer Muhammad | Member 3 Student ID
+Adnan Kazi | Member 1 101304031
+Umar Marikar | Member 2 101310164
+Ahmer Muhammad | Member 3 101312213
 
 
 Steps to compile and run application:
